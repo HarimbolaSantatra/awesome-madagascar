@@ -34,3 +34,4 @@ A curated list of Madagascar related projects.
 
 ## Language
 - [SetraC4Ci/Gasy-Corpus-Crawler](https://github.com/SetraC4Ci/Gasy-Corpus-Crawler) - A collection of python scripts for scraping malagasy websites.
+- [HarimbolaSantatra/mm-cli](https://github.com/HarimbolaSantatra/mm-cli) - Malagasy Encyclopedia and Dictionary on the command line 
